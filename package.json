@@ -1,0 +1,21 @@
+{
+  "name": "cypress-curse",
+  "version": "1.0.0",
+  "description": "Repositório para o curso de cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-nog/cypress-curse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando-nog/cypress-curse/issues"
+  },
+  "homepage": "https://github.com/fernando-nog/cypress-curse#readme"
+}
